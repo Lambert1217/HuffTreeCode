@@ -28,7 +28,8 @@ SOURCES += \
         mainwindow.cpp \
     huftree.cpp \
     stat.cpp \
-    huftreecode.cpp
+    huftreecode.cpp \
+    freqpair.cpp
 
 HEADERS += \
         mainwindow.h \
@@ -36,7 +37,8 @@ HEADERS += \
     config.h \
     stat.h \
     hufftreebuild.h \
-    huftreecode.h
+    huftreecode.h \
+    freqpair.h
 
 FORMS += \
         mainwindow.ui
